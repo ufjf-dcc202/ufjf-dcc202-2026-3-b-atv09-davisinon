@@ -1,0 +1,12 @@
+
+
+main > article {
+    border: 1px solid red;
+    resize: both;
+    overflow: auto;
+}
+
+h1{
+    border: 1px solid pink;
+    margin: 0;
+}
